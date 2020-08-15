@@ -5,6 +5,7 @@ The OOP paradigm allows us to arrange the objects in the model in a hierarchy th
 Encapsulation, composition, inheritance and polymorphism are some of the base concepts in OOP paradigm that can be used to associate real-world objects and processes with digital counterparts.
 
  Simple calculator:
+ ![calculator](https://github.com/ahmedmatem/simplecalculator/calculator.png?raw=true)
 A simple calculator with arithmetic operations can be realized with the help of object-oriented programming.
 Calculator contains a display and keys. Display shows the arithmetic expression entered by the user with pressing keys and the result of the calculation after pressing “=” key (SubmitKey).
 Тhe user presses the keys on the calculator to enter a simple arithmetic expression (for example: 12+3*4) and the "=" key (SubmitKey) to calculate and print the result on the display. 
